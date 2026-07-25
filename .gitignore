@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# PDF files (keep these out of the repo; link to them instead)
+*.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.blg
+*.bbl
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
