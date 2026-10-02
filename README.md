@@ -1,5 +1,5 @@
 ## About
-Wanted to summarize and document my thoughts on papers I've read:
+Wanted to summarize and document my thoughts on papers I've read. Currently backfilling.
 
 2025:  
 [Machines of Loving Grace](papers/machines_of_loving_grace.md)  
