@@ -1,3 +1,4 @@
+Date: 7-13-2026  
 [Link](https://arxiv.org/abs/2606.24597)
 
 Made me want to look more into what exactly makes something a "world" model - I was told that part of its objective is to predict future states of the environment, but don't all LLMs end up having internal representations of the user, and thus in some sense, the "world"?
