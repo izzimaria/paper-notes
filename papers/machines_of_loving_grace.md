@@ -1,5 +1,5 @@
 Date: Started 10-2024, finished 7-2025  
-[Annotated Paper](/annotated_pdfs/machines_of_loving_grace.pdf)  
+[Annotated Paper](./annotated_pdfs/machines_of_loving_grace.pdf)  
 
 Note: I'm summarizing this reflection a few years later, so I'm sure some of these comments will suffer from hindsight bias.
 
